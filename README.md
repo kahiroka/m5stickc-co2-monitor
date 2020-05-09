@@ -9,11 +9,11 @@ This is a CO2 concentration monitor sketch for M5StickC and MH-Z19B module.
 | M5StickC | MH-Z19B |
 | -------- | ------- |
 | GND      | GND     |
-| 5V       | VIN     |
+| 5V       | Vin     |
 | G26      | N.C.    |
 | G36      | Tx      |
 | G0       | Rx      |
-| BAT      | Vo      |
+| BAT      | N.C.    |
 | 3V3      | N.C.    |
 | VIN      | N.C.    |
 
